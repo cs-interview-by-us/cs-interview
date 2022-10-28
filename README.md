@@ -25,7 +25,7 @@
 - OS
     - 운영체제란
     - [프로세스 vs 스레드](https://github.com/cs-interview-by-us/cs-interview/tree/main/OS/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20vs%20%EC%8A%A4%EB%A0%88%EB%93%9C) 
-    - 프로세스 주소 공간
+    - [프로세스 주소 공간](https://github.com/cs-interview-by-us/cs-interview/tree/main/OS/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EC%A3%BC%EC%86%8C%EA%B3%B5%EA%B0%84)
     - 인터럽트(Interrupt)
     - 시스템 콜(System Call)
     - PCB와 Context Switching
@@ -41,7 +41,7 @@
 
 - Network
     - [OSI 7 계층](https://github.com/cs-interview-by-us/cs-interview/tree/main/Network/OSI%207%20%EA%B3%84%EC%B8%B5)
-    - TCP 3 way handshake & 4 way handshake
+    - [TCP 3 way handshake & 4 way handshake](https://github.com/cs-interview-by-us/cs-interview/tree/main/Network/TCP%203%20way%20handshake%20%26%204%20way%20handshake)
     - TCP/IP 흐름제어 & 혼잡제어
     - UDP
     - 대칭키 & 공개키
