@@ -19,11 +19,12 @@
         - 예시: [OS/정리] 운영체제란
     - Workbook 올릴 땐, [과목명/워크북] 로 commit
     - Workbook 제출할 땐, [과목명/워크북 제출] 로 commit
+    - 수정할 땐, 수정하고 싶은 커밋 메세지 앞에 "fix: "를 붙여서 fix: [과목명/워크북] 로 commit
 
 ## CS-Interview Topic 
 - OS
     - 운영체제란
-    - 프로세스 vs 스레드 
+    - [프로세스 vs 스레드](https://github.com/cs-interview-by-us/cs-interview/tree/main/OS/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20vs%20%EC%8A%A4%EB%A0%88%EB%93%9C) 
     - 프로세스 주소 공간
     - 인터럽트(Interrupt)
     - 시스템 콜(System Call)
@@ -39,16 +40,16 @@
     - 파일 시스템
 
 - Network
-    - OSI 7 계층
-    * TCP 3 way handshake & 4 way handshake
-    * TCP/IP 흐름제어 & 혼잡제어
-    * UDP
-    * 대칭키 & 공개키
-    * HTTP & HTTPS
-    * TLS/SSL handshake
-    * 로드 밸런싱(Load Balancing)
-    * Blocking, Non-blocking & Synchronous,Asynchronous
-    * Blocking & Non-Blocking I/O
+    - [OSI 7 계층](https://github.com/cs-interview-by-us/cs-interview/tree/main/Network/OSI%207%20%EA%B3%84%EC%B8%B5)
+    - TCP 3 way handshake & 4 way handshake
+    - TCP/IP 흐름제어 & 혼잡제어
+    - UDP
+    - 대칭키 & 공개키
+    - HTTP & HTTPS
+    - TLS/SSL handshake
+    - 로드 밸런싱(Load Balancing)
+    - Blocking, Non-blocking & Synchronous,Asynchronous
+    - Blocking & Non-Blocking I/O
 
 - Algorithm
     - 거품 정렬(Bubble Sort)
