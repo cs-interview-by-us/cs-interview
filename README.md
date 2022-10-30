@@ -20,7 +20,9 @@
     - Workbook 올릴 땐, [과목명/워크북] 로 commit
     - Workbook 제출할 땐, [과목명/워크북 제출] 로 commit
     - 수정할 땐, 수정하고 싶은 커밋 메세지 앞에 "fix: "를 붙여서 fix: [과목명/워크북] 로 commit
-
+- 브랜치 컨벤션
+    - workbook/이름 
+        - 예시: workbook/gyurim
 ## CS-Interview Topic 
 - OS
     - 운영체제란
