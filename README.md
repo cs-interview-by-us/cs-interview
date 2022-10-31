@@ -25,7 +25,7 @@
         - 예시: workbook/gyurim
 ## CS-Interview Topic 
 - OS
-    - 운영체제란
+    - [운영체제란](https://github.com/cs-interview-by-us/cs-interview/tree/main/OS/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EB%9E%80)
     - [프로세스 vs 스레드](https://github.com/cs-interview-by-us/cs-interview/tree/main/OS/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20vs%20%EC%8A%A4%EB%A0%88%EB%93%9C) 
     - [프로세스 주소 공간](https://github.com/cs-interview-by-us/cs-interview/tree/main/OS/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EC%A3%BC%EC%86%8C%EA%B3%B5%EA%B0%84)
     - 인터럽트(Interrupt)
@@ -44,7 +44,7 @@
 - Network
     - [OSI 7 계층](https://github.com/cs-interview-by-us/cs-interview/tree/main/Network/OSI%207%20%EA%B3%84%EC%B8%B5)
     - [TCP 3 way handshake & 4 way handshake](https://github.com/cs-interview-by-us/cs-interview/tree/main/Network/TCP%203%20way%20handshake%20%26%204%20way%20handshake)
-    - TCP/IP 흐름제어 & 혼잡제어
+    - [TCP/IP 흐름제어 & 혼잡제어](https://github.com/cs-interview-by-us/cs-interview/tree/main/Network/TCP%20IP%20%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%20%26%20%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4)
     - UDP
     - 대칭키 & 공개키
     - HTTP & HTTPS
