@@ -3,7 +3,7 @@
 > 마지막으로 보낸 ACK이 유실되는 것을 대비하기 위해서 TIME_WAIT이 필요합니다. 마지막으로 보낸 ACK이 유실된다면 server에서는 ACK과 FIN을 다시 보내게 됩니다. TIME_WAIT이 없다면 이를 응답할 client가 없습니다.
 
 ## Q2. SYN / ACK 패킷을 분리하는 이유는?
->   이거 잘 모르겠어 같이 보내지 않아?
+> 분리하지 않을 경우, 현재 받은 패킷이 응답인지 요청인지 알 수 없게 됩니다.
 
 ## Q3. Selective ACK과 Cumulative ACK란?
 > __Selective ACK__ 은 수신 측에 잘 도착한 패킷 시퀀스에 대해 알려줘 누락된 packet만 재전송할 수 있도록 하는 방식입니다.
