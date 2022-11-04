@@ -2,7 +2,7 @@
 ## PCB (Process Control Block)
 - PCB는 운영체제가 프로세스를 제어하기 위해 정보를 저장해둔 곳으로, **프로세스의 상태 정보를 저장하는 자료구조**입니다. 
 - 운영체제는 빠르게 PCB에 접근하기 위해 ``프로세스 테이블``을 사용하여 각 프로세스의 PCB를 관리합니다. 
-![](README/pcb%202.png)
+![pcb](https://user-images.githubusercontent.com/31344894/199953725-956919e4-fb87-43c9-b436-07c2ba9edecd.png)
 - 프로세스가 생성되면 프로세스에 대한 정보인 Process Metadata를 PCB에 저장합니다. 
 
 ### PCB에 저장되어 있는 정보(Process Metadata)
@@ -38,7 +38,7 @@
 ### Stack Pointer
 - 함수를 호출할 때 지역 변수는 스택에 저장되는데, 이 스택에 데이터가 채워진 위치를 가리키는 레지스터 
 - SP가 가리키는 곳까지가 데이터가 채워진 영역이고 이후부터 스택 끝까지는 비어있는 영역입니다. 
-![](README/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202022-11-04%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%2012.45.45.png)
+<img width="384" alt="스크린샷 2022-11-04 오전 12 45 45" src="https://user-images.githubusercontent.com/31344894/199953597-c578f32e-9663-44e9-a64a-8bb1714d5486.png">
 
 ### Context Switching이 필요한 이유
 ```
@@ -49,7 +49,7 @@ CPU가 프로세스를 바꿔가며 실행하기 위해, 문맥 교환이 필요
 ```
 
 ### Context Switching 과정 
-![](README/context%20switching%202.png)
+![context switching](https://user-images.githubusercontent.com/31344894/199953657-9a1a3bbb-9a83-4c5f-b97e-053eae78b8d9.png)
 1. Process P0이 실행되는 도중, 어떠한 이유로 인터럽트나 시스템 콜이 발생합니다.
 	- 예시로 실행 상태에 있는 프로세스 P0이 주어진 시간을 다 사용하여 운영체제에서 스케줄러에 의해 인터럽트 발생
 2. P0이 유저 모드에서 커널 모드로 전환되고 P0은 준비 상태가 됩니다. 
@@ -59,7 +59,7 @@ CPU가 프로세스를 바꿔가며 실행하기 위해, 문맥 교환이 필요
 5. P1 프로세스를 커널 모드에서 유저 모드로 전환해 실행합니다. 
 
 ### Context Switching의 오버헤드 
-- Context Switching에 걸린 시간과 메모리 => 오버헤드
+- **Context Switching에 걸린 시간과 메모리 == 오버헤드**
 - I/O 이벤트가 발생했을 때, 디스크에 명령을 내렸는데 끝날 때까지 기다리면서 CPU가 가만히 있으면 CPU가 낭비되기 때문에 다른 프로세스로 바꿔 CPU를 사용하는 것이 더 이득입니다. 
 - ✨오버헤드를 감수하면서 기존 프로세스를 새 프로세스로 바꾸는 것이 더 효율적이라고 판단될 때, 스케줄러는 Context Switching을 합니다. 
 
