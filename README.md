@@ -30,7 +30,7 @@
     - [프로세스 주소 공간](https://github.com/cs-interview-by-us/cs-interview/tree/main/OS/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EC%A3%BC%EC%86%8C%EA%B3%B5%EA%B0%84)
     - 인터럽트(Interrupt)
     - [시스템 콜(System Call)](https://github.com/cs-interview-by-us/cs-interview/tree/main/OS/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%BD%9C(System%20Call))
-    - PCB와 Context Switching
+    - [PCB와 Context Switching](https://github.com/cs-interview-by-us/cs-interview/tree/main/OS/PCB%EC%99%80%20Context%20Switching)
     - IPC(Inter Process Communication)
     - CPU 스케줄링
     - 데드락(DeadLock)
@@ -46,7 +46,7 @@
     - [TCP 3 way handshake & 4 way handshake](https://github.com/cs-interview-by-us/cs-interview/tree/main/Network/TCP%203%20way%20handshake%20%26%204%20way%20handshake)
     - [TCP/IP 흐름제어 & 혼잡제어](https://github.com/cs-interview-by-us/cs-interview/tree/main/Network/TCP%20IP%20%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%20%26%20%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4)
     - UDP
-    - 대칭키 & 공개키
+    - [대칭키 & 공개키](https://github.com/cs-interview-by-us/cs-interview/tree/main/Network/%EB%8C%80%EC%B9%AD%ED%82%A4%20%26%20%EA%B3%B5%EA%B0%9C%ED%82%A4)
     - [HTTP & HTTPS](https://github.com/cs-interview-by-us/cs-interview/tree/main/Network/HTTP%20%26%20HTTPS)
     - TLS/SSL handshake
     - 로드 밸런싱(Load Balancing)
