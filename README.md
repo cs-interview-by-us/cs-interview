@@ -12,13 +12,13 @@
 ## 제출
 - 파일 구조
     - 각 과목에 주제명으로 폴더를 만든 후, 정리한 내용을 README.md로 올리기 
-    - 질문지는 주제명 폴더 내에 Workbook 폴더 속에 README.md로 올리기
-    - 답변 제출할 때는 Workbook 폴더에 자신의 이름.md로 올리기
+    - 질문지는 주제명 폴더 내에 workbook 폴더 속에 README.md로 올리기
+    - 답변 제출할 때는 workbook 폴더에 자신의 이름.md로 올리기
 - 커밋 컨벤션
     - [과목명/정리] 주제 로 commit
         - 예시: [OS/정리] 운영체제란
-    - Workbook 올릴 땐, [과목명/워크북] 로 commit
-    - Workbook 제출할 땐, [과목명/워크북 제출] 로 commit
+    - workbook 올릴 땐, [과목명/워크북] 로 commit
+    - workbook 제출할 땐, [과목명/워크북 제출] 로 commit
     - 수정할 땐, 수정하고 싶은 커밋 메세지 앞에 "fix: "를 붙여서 fix: [과목명/워크북] 로 commit
 - 브랜치 컨벤션
     - workbook/이름 
