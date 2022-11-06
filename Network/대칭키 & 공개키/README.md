@@ -72,7 +72,7 @@
 <img width="787" alt="스크린샷 2022-11-04 오후 6 59 03" src="https://user-images.githubusercontent.com/31344894/199953271-0a6a0ef6-d26e-4694-b131-13aa7647a133.png">
 
 1. 클라이언트가 서버에 접속합니다. -> Client Hello 단계
-2. 서버는 Client Hello에 대한 응답으로 Server Hello를 합니다. 
+2. 서버는 Client Hello에 대한 응답으로 Server Hello를 합니다. 이때 SSL 인증서도 보냅니다. (SSL 인증서에는 공개키, CA, 도메인 등의 정보가 담겨있음)
 3. 클라이언트는 서버의 인증서가 CA에 의해서 발급된 것인지 확인하기 위해 클라이언트에 내장된 ✨CA 리스트를 확인합니다.
 	- CA 리스트에 인증서가 없다면 사용자에게 경고 메세지를 출력합니다.
 	- **인증서가 CA에 의해서 발급된 것인지를 확인하는 방법**
