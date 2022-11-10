@@ -35,7 +35,7 @@
     - [PCB와 Context Switching](https://github.com/cs-interview-by-us/cs-interview/tree/main/OS/PCB%EC%99%80%20Context%20Switching)
     - [IPC(Inter Process Communication)](https://github.com/cs-interview-by-us/cs-interview/tree/main/OS/IPC(Inter%20Process%20Communication))
     - CPU 스케줄링
-    - 데드락(DeadLock)
+    - [데드락(DeadLock)](https://github.com/cs-interview-by-us/cs-interview/tree/main/OS/%EB%8D%B0%EB%93%9C%EB%9D%BD(DeadLock))
     - Race Condition
     - 세마포어(Semaphore) & 뮤텍스(Mutex)
     - 페이징 & 세그먼테이션 (PDF)
@@ -51,7 +51,7 @@
     - [대칭키 & 공개키](https://github.com/cs-interview-by-us/cs-interview/tree/main/Network/%EB%8C%80%EC%B9%AD%ED%82%A4%20%26%20%EA%B3%B5%EA%B0%9C%ED%82%A4)
     - [HTTP & HTTPS](https://github.com/cs-interview-by-us/cs-interview/tree/main/Network/HTTP%20%26%20HTTPS)
     - [TLS/SSL handshake](https://github.com/cs-interview-by-us/cs-interview/tree/main/Network/TLS%20%26%20SSL%20handshake)
-    - 로드 밸런싱(Load Balancing)
+    - [로드 밸런싱(Load Balancing)](https://github.com/cs-interview-by-us/cs-interview/tree/main/Network/%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%8B%B1(Load%20Balancing))
     - Blocking, Non-blocking & Synchronous,Asynchronous
     - [Blocking & Non-Blocking I/O](https://github.com/cs-interview-by-us/cs-interview/tree/main/Network/Blocking%20%26%20Non-Blocking%20IO)
 
