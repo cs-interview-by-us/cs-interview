@@ -1,5 +1,7 @@
 # cs-interview 🍀
-참고: https://github.com/gyoogle/tech-interview-for-developer
+참고: 
+- https://github.com/gyoogle/tech-interview-for-developer
+- https://github.com/WooVictory/Ready-For-Tech-Interview
 
 ## 스터디 방식
 - 매주 과목을 정함
@@ -31,7 +33,7 @@
     - [인터럽트(Interrupt)](https://github.com/cs-interview-by-us/cs-interview/tree/main/OS/%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8(Interrupt))
     - [시스템 콜(System Call)](https://github.com/cs-interview-by-us/cs-interview/tree/main/OS/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%BD%9C(System%20Call))
     - [PCB와 Context Switching](https://github.com/cs-interview-by-us/cs-interview/tree/main/OS/PCB%EC%99%80%20Context%20Switching)
-    - IPC(Inter Process Communication)
+    - [IPC(Inter Process Communication)](https://github.com/cs-interview-by-us/cs-interview/tree/main/OS/IPC(Inter%20Process%20Communication))
     - CPU 스케줄링
     - 데드락(DeadLock)
     - Race Condition
@@ -48,10 +50,10 @@
     - [UDP](https://github.com/cs-interview-by-us/cs-interview/tree/main/Network/UDP)
     - [대칭키 & 공개키](https://github.com/cs-interview-by-us/cs-interview/tree/main/Network/%EB%8C%80%EC%B9%AD%ED%82%A4%20%26%20%EA%B3%B5%EA%B0%9C%ED%82%A4)
     - [HTTP & HTTPS](https://github.com/cs-interview-by-us/cs-interview/tree/main/Network/HTTP%20%26%20HTTPS)
-    - TLS/SSL handshake
+    - [TLS/SSL handshake](https://github.com/cs-interview-by-us/cs-interview/tree/main/Network/TLS%20%26%20SSL%20handshake)
     - 로드 밸런싱(Load Balancing)
     - Blocking, Non-blocking & Synchronous,Asynchronous
-    - Blocking & Non-Blocking I/O
+    - [Blocking & Non-Blocking I/O](https://github.com/cs-interview-by-us/cs-interview/tree/main/Network/Blocking%20%26%20Non-Blocking%20IO)
 
 - Algorithm
     - 거품 정렬(Bubble Sort)
@@ -83,3 +85,27 @@
     * 트랜잭션 격리 수준(Transaction Isolation Level)
     * 저장 프로시저(Stored PROCEDURE)
     * 레디스(Redis)
+   
+- Java
+    * Call by value ve Call by Reference
+    * String, StringBuilder, StringBuffer 차이
+    * 객체지향 프로그래밍
+    * 접근 제어 지시자
+    * ==와 equals() 차이
+    * Wrapper Class
+    * 기본형과 참조형의 차이점
+    * 오버라이딩과 오버로딩
+    * final 키워드
+    * non-static 멤버와 static 멤버 차이
+    * 추상 클래스
+    * 인터페이스
+    * 추상 클래스와 인터페이스의 차이
+    * 변수의 종류와 메모리 구조
+    * Reflection
+    * Garbage Collection
+    * Java에서 Thread
+    * Java의 String
+    * int와 short
+    * JVM
+    * equals() 메소드 동작 원리
+    * Integer vs int size 비교
