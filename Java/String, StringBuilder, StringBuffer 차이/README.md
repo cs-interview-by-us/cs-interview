@@ -14,7 +14,7 @@
 ### String 클래스와 Heap 메모리 부족 
 
 ```Java
-String str = "hello"; // String str = new String("hello");
+String str = "hello"; 
 str = str + "world";
 ```
 - 위 예시는 String 참조변수 str이 가리키는 곳에 저장된 "hello"에 "world" 문자열을 더해 "hello world"로 **변경된 것이 아닙니다**. 
