@@ -88,9 +88,9 @@
    
 - Java
     * Call by value ve Call by Reference
-    * String, StringBuilder, StringBuffer 차이
+    * [String, StringBuilder, StringBuffer 차이](https://github.com/cs-interview-by-us/cs-interview/tree/main/Java/String%2C%20StringBuilder%2C%20StringBuffer%20%EC%B0%A8%EC%9D%B4)
     * 객체지향 프로그래밍
-    * 접근 제어 지시자
+    * [접근 제어 지시자](https://github.com/cs-interview-by-us/cs-interview/tree/main/Java/%EC%A0%91%EA%B7%BC%20%EC%A0%9C%EC%96%B4%20%EC%A7%80%EC%8B%9C%EC%9E%90)
     * ==와 equals() 차이
     * Wrapper Class
     * 기본형과 참조형의 차이점
@@ -109,3 +109,6 @@
     * JVM
     * equals() 메소드 동작 원리
     * Integer vs int size 비교
+    * SOLID 원칙 
+    * 자바의 컬렉션 프레임워크
+    
