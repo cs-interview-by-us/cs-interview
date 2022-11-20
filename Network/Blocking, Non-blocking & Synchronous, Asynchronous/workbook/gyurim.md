@@ -10,8 +10,12 @@
 ### Q2. Synchronous/Asynchronous와 Blocking/Non-Blocking의 차이점
 - Synchronous/Asynchronous
     - Synchronous
+        - **요청한 순서가 지켜지는 것**
+            - 3개를 요청했을 때, 응답에서 순서가 지켜집니다. 
         - 호출한 함수가 호출된 함수의 작업 완료 여부를 계속 체크하는 것입니다. 
     - Asynchronous
+        - **요청한 순서가 지켜지지 않은 것**
+            - 3개를 요청했을 때, 어떤 요청에 대한 응답이 올 지 알 수 없습니다. 
         - 호출한 함수가 호출된 함수의 작업 완료 여부를 신경쓰지 않으며, 작업 완료가 되면 callback 등의 형태로 호출된 함수가 호출한 함수에게 알려줍니다. 
 - Blocking/Non-Blocking
     - Blocking
