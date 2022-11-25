@@ -87,9 +87,9 @@
     * 레디스(Redis)
    
 - Java
-    * Call by value ve Call by Reference
+    * [Call by value ve Call by Reference](https://github.com/cs-interview-by-us/cs-interview/tree/main/Java/Call%20by%20value%20ve%20Call%20by%20Reference)
     * [String, StringBuilder, StringBuffer 차이](https://github.com/cs-interview-by-us/cs-interview/tree/main/Java/String%2C%20StringBuilder%2C%20StringBuffer%20%EC%B0%A8%EC%9D%B4)
-    * 객체지향 프로그래밍
+    * [객체지향 프로그래밍](https://github.com/cs-interview-by-us/cs-interview/tree/main/Java/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
     * [접근 제어 지시자](https://github.com/cs-interview-by-us/cs-interview/tree/main/Java/%EC%A0%91%EA%B7%BC%20%EC%A0%9C%EC%96%B4%20%EC%A7%80%EC%8B%9C%EC%9E%90)
     * ==와 equals() 차이
     * Wrapper Class
