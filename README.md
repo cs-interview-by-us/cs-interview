@@ -41,7 +41,7 @@
     - 페이징 & 세그먼테이션 (PDF)
     - 페이지 교체 알고리즘
     - [메모리(Memory)](https://github.com/cs-interview-by-us/cs-interview/tree/main/OS/%EB%A9%94%EB%AA%A8%EB%A6%AC(Memory))
-    - 파일 시스템
+    - [파일 시스템](https://github.com/cs-interview-by-us/cs-interview/tree/main/OS/%ED%8C%8C%EC%9D%BC%20%EC%8B%9C%EC%8A%A4%ED%85%9C)
 
 - Network
     - [OSI 7 계층](https://github.com/cs-interview-by-us/cs-interview/tree/main/Network/OSI%207%20%EA%B3%84%EC%B8%B5)
