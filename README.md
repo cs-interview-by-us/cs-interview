@@ -38,7 +38,7 @@
     - [데드락(DeadLock)](https://github.com/cs-interview-by-us/cs-interview/tree/main/OS/%EB%8D%B0%EB%93%9C%EB%9D%BD(DeadLock))
     - [Race Condition](https://github.com/cs-interview-by-us/cs-interview/tree/main/OS/Race%20Condition)
     - [세마포어(Semaphore) & 뮤텍스(Mutex)](https://github.com/cs-interview-by-us/cs-interview/tree/main/OS/%EC%84%B8%EB%A7%88%ED%8F%AC%EC%96%B4(Semaphore)%20%26%20%EB%AE%A4%ED%85%8D%EC%8A%A4(Mutex))
-    - 페이징 & 세그먼테이션 (PDF)
+    - 페이징 & 세그먼테이션 ([PDF](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Paging%20and%20Segmentation.pdf))
     - 페이지 교체 알고리즘
     - [메모리(Memory)](https://github.com/cs-interview-by-us/cs-interview/tree/main/OS/%EB%A9%94%EB%AA%A8%EB%A6%AC(Memory))
     - [파일 시스템](https://github.com/cs-interview-by-us/cs-interview/tree/main/OS/%ED%8C%8C%EC%9D%BC%20%EC%8B%9C%EC%8A%A4%ED%85%9C)
