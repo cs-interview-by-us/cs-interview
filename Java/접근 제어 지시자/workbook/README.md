@@ -24,4 +24,4 @@ public class EungYongPark extends HousePark {
 }
 ```
 
-### Q2. 접근 지시자를 사용하는 이유는 무엇일까요? SOLID(객체 지향 설계)와 관련해 설명해주세요. 
+### Q2. 접근 지시자를 사용하는 이유는 무엇일까요? 객체 지향 설계와 관련해 설명해주세요. 
